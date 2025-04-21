@@ -1,1 +1,1 @@
-git add README.md
+#welcome to LC^2
